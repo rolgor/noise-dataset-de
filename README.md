@@ -29,4 +29,4 @@ The data is designed to help improve the robustness of speech recognition system
 
 ## 💬 Contact
 
-If you'd like to request custom noise scenarios or larger datasets, please contact me via [rolgor@protonmail.com]
+If you'd like to request custom noise scenarios or larger datasets, please contact me via [kontakt@rolgor.de]
