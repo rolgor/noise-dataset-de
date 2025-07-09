@@ -9,7 +9,7 @@ The data is designed to help improve the robustness of speech recognition system
 
 ## 🔗 Demo & Documentation
 
-[Demo packages and detailed information](https://noise.rolgor.de)
+[Demo packages and detailed information (coming soon)](https://noise.rolgor.de)
 
 ## 📄 Content
 
