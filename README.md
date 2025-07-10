@@ -26,6 +26,7 @@ The data is designed to help improve the robustness of speech recognition system
 
 - Voice recordings are based on Mozilla Common Voice, published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 - Code and scripts: MIT License.
+⚠️ **Please respect speaker privacy**: Do not attempt to determine or infer the identity of any speakers in the dataset.
 
 ## 💬 Contact
 
